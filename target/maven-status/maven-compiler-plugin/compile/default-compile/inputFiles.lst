@@ -1,0 +1,15 @@
+/home/iancu/NetBeansProjects/ProiectPAO/src/main/java/com/mycompany/proiectpao/users/Login.java
+/home/iancu/NetBeansProjects/ProiectPAO/src/main/java/com/mycompany/proiectpao/data/Database.java
+/home/iancu/NetBeansProjects/ProiectPAO/src/main/java/com/mycompany/proiectpao/catalogs/Catalog.java
+/home/iancu/NetBeansProjects/ProiectPAO/src/main/java/com/mycompany/proiectpao/catalogs/CatalogRepo.java
+/home/iancu/NetBeansProjects/ProiectPAO/src/main/java/com/mycompany/proiectpao/users/DbUser.java
+/home/iancu/NetBeansProjects/ProiectPAO/src/main/java/com/mycompany/proiectpao/users/Register.java
+/home/iancu/NetBeansProjects/ProiectPAO/src/main/java/com/mycompany/proiectpao/catalogs/TeacherCatalog.java
+/home/iancu/NetBeansProjects/ProiectPAO/src/main/java/com/mycompany/proiectpao/catalogs/Enrollment.java
+/home/iancu/NetBeansProjects/ProiectPAO/src/main/java/com/mycompany/proiectpao/users/UserRepo.java
+/home/iancu/NetBeansProjects/ProiectPAO/src/main/java/com/mycompany/proiectpao/JAXRSConfiguration.java
+/home/iancu/NetBeansProjects/ProiectPAO/src/main/java/com/mycompany/proiectpao/home/Home.java
+/home/iancu/NetBeansProjects/ProiectPAO/src/main/java/com/mycompany/proiectpao/catalogs/Catalogs.java
+/home/iancu/NetBeansProjects/ProiectPAO/src/main/java/com/mycompany/proiectpao/resources/JavaEE8Resource.java
+/home/iancu/NetBeansProjects/ProiectPAO/src/main/java/com/mycompany/proiectpao/catalogs/DeleteEnrollment.java
+/home/iancu/NetBeansProjects/ProiectPAO/src/main/java/com/mycompany/proiectpao/catalogs/EnrollStudent.java
